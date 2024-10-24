@@ -31,6 +31,8 @@ Wikipedia says
 
 **Programmatic Example**
 
+
+
 Consider a captain that can only use rowing boats and cannot sail at all.
 
 First, we have interfaces `RowingBoat` and `FishingBoat`
